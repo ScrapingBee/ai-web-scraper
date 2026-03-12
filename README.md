@@ -8,11 +8,11 @@
 
 A production-ready [AI Web Scraper](https://www.scrapingbee.com/features/ai-web-scraping-api/) built on top of a scalable AI Web Scraping API designed for intelligent, structured data extraction at scale.
 
-Modern websites are dynamic, JavaScript-heavy, and protected by increasingly sophisticated anti-bot systems. Traditional scraping approaches rely on fragile CSS selectors, constant maintenance, rotating proxies, and complex parsing logic that breaks the moment a layout changes.
+Modern websites are dynamic, JavaScript-heavy, and protected by increasingly sophisticated anti-bot systems. Traditional scraping approaches rely on fragile CSS selectors, constant maintenance, [rotating proxies](https://www.scrapingbee.com/blog/rotating-proxies/), and complex parsing logic that breaks the moment a layout changes.
 
 This repository shows you a smarter way.
 
-Instead of writing brittle scraping scripts, you can leverage an AI web scraping API that understands web content contextually and extracts structured data using natural language instructions. With AI data extraction, you define what you want  product names, prices, reviews, contact information, article summaries — and let AI handle *how* to extract it.
+Instead of writing brittle scraping scripts, you can leverage an [AI web scraping tool](https://www.scrapingbee.com/blog/best-ai-web-scrapers/) that understands web content contextually and extracts structured data using natural language instructions. With AI data extraction, you define what you want  product names, prices, reviews, contact information, article summaries and let AI handle how to extract it.
 
 This project demonstrates how to build scalable AI data scraping workflows using managed infrastructure that handles:
 
