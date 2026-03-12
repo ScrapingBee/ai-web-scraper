@@ -39,6 +39,8 @@ This repository provides a complete technical blueprint for building robust, int
 
 ## What Is an AI Web Scraper?
 
+<img width="1197" height="683" alt="image" src="https://github.com/user-attachments/assets/18800bde-de59-4f2a-8624-0c1e931a3a33" />
+
 
 An [AI web scraper](https://www.scrapingbee.com/features/ai-web-scraping-api/) is a next-generation scraping system that uses large language models to extract structured data from web pages using natural language instructions instead of brittle CSS selectors.
 
@@ -294,7 +296,7 @@ User → AI Web Scraping API → Proxy Layer → Headless Browser → AI Parsing
 This architecture enables:
 
 - Scalable AI data extraction
-- Intelligent parsing
+- Data parsing
 - Anti-bot protection
 - Infrastructure abstraction
 
@@ -323,8 +325,9 @@ This architecture enables:
 
 ## Summary
 
-This repository provides a complete guide to building a production-grade AI web scraper using a scalable AI web scraping API.
+This repository provides a complete guide to building a production-grade [AI web scraper](https://www.scrapingbee.com/features/ai-web-scraping-api/) using a scalable AI web scraping API.
 
-By combining managed scraping infrastructure with AI data extraction and intelligent parsing, you can build robust AI data scraping pipelines without maintaining custom scraping logic.
+By combining managed scraping infrastructure with AI data extraction and [intelligent parsing](https://www.scrapingbee.com/blog/data-parsing/), you can build robust AI data scraping pipelines without maintaining custom scraping logic.
 
 Whether you are harvesting product data, extracting leads, monitoring pricing, or analyzing content, this AI web scraper framework provides a scalable and reliable foundation.
+
