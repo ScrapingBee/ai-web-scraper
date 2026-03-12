@@ -24,6 +24,7 @@ This repository provides a complete technical blueprint.
 
 ## What Is an AI Web Scraper?
 
+
 An AI web scraper is a next-generation scraping system that uses large language models to extract structured data from web pages using natural language instructions instead of brittle CSS selectors.
 
 Traditional scraping requires:
