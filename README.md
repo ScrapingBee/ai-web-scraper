@@ -23,7 +23,7 @@ This project demonstrates how to build scalable AI data scraping workflows using
 - Geolocation targeting  
 - Structured JSON output  
 
-Whether you are building price monitoring systems, competitive intelligence pipelines, lead generation tools, or automated research workflows, this AI web scraper provides a modern foundation for reliable data harvesting.
+Whether you are building [price monitoring](https://www.scrapingbee.com/blog/price-scraper/) systems, competitive intelligence pipelines, lead generation tools, or automated research workflows, this AI web scraper provides a modern foundation for reliable data harvesting.
 
 If you are searching for:
 
