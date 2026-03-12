@@ -1,5 +1,10 @@
 # AI-Web-Scraper
 
+<p align="center">
+  <a href="https://www.scrapingbee.com/features/ai-web-scraping-api/">
+    <img src="https://github.com/user-attachments/assets/97f6eeea-60c3-4073-ac06-18ea043e5381" alt="AI Web Scraping API" />
+  </a>
+</p>
 
 A production-ready AI Web Scraper built on top of a scalable AI Web Scraping API.
 
