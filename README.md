@@ -1,4 +1,4 @@
-# AI-Web-Scraper
+# ai-web-scraper
 
 <p align="center">
   <a href="https://www.scrapingbee.com/features/ai-web-scraping-api/">
